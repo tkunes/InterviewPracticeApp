@@ -1,0 +1,6 @@
+@HrvystPracticeApp_HostAddress = http://localhost:5020
+
+GET {{HrvystPracticeApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
