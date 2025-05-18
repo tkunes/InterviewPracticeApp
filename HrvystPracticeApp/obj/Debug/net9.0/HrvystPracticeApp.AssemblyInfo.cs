@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HrvystPracticeApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ee7d64c04c832d64d607facf3202dffb6cfaf62")]
 [assembly: System.Reflection.AssemblyProductAttribute("HrvystPracticeApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HrvystPracticeApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

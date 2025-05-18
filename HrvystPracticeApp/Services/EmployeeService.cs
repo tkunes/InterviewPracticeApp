@@ -12,9 +12,9 @@ namespace HrvystPracticeApp.Services
             _employeeFilter = employeeFilter;
         }
 
-        public List<Employee> GetEmployee(string? firstName, string? lastName)
+        public async Task<List<Employee>> GetEmployee(string? firstName, string? lastName)
         {
-            var jsonString = getJSONStringFromGoogle();
+            var jsonString = await getJSONStringFromGoogle();
 
             List<Employee>? employees = (JsonConvert.DeserializeObject<IEnumerable<Employee>>(jsonString) as List<Employee>);
 
@@ -26,17 +26,17 @@ namespace HrvystPracticeApp.Services
             return _employeeFilter.FilterEmployees(employees, firstName, lastName);
         }
 
-        public string getJSONStringFromGoogle()
+        public async Task<string> getJSONStringFromGoogle()
         {
             var url = "https://drive.usercontent.google.com/u/0/uc?id=1UQwIdAJuRsvQqPJzkHkUOKPS3Fs_JhlD&export=download";
 
             using (var client = new HttpClient())
             {
-                var response = client.GetAsync(url).Result;
+                var response = await client.GetAsync(url);
 
                 if (response.IsSuccessStatusCode)
                 {
-                    var content = response.Content.ReadAsStringAsync().Result;
+                    var content = await response.Content.ReadAsStringAsync();
                     return content;
                 }
             }

@@ -15,9 +15,9 @@ namespace HrvystPracticeApp.Controllers
         }
 
         [HttpGet]   
-        public IEnumerable<Employee> Get(string? FirstName, string? LastName)
+        public async Task<IEnumerable<Employee>> GetAsync(string? FirstName, string? LastName)
         {
-            List<Employee> list = _employeeService.GetEmployee(FirstName, LastName);
+            List<Employee> list = await _employeeService.GetEmployee(FirstName, LastName);
 
             return list;
         }

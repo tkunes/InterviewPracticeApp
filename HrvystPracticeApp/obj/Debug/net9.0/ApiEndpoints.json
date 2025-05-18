@@ -1,7 +1,7 @@
 [
   {
     "ContainingType": "HrvystPracticeApp.Controllers.EmployeeController",
-    "Method": "Get",
+    "Method": "GetAsync",
     "RelativePath": "api/Employee",
     "HttpMethod": "GET",
     "IsController": true,

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tyler\\source\\repos\\HrvystPracticeApp\\InterviewPracticeApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37258E4C-0151-4406-A184-FF1F6D3D6F9C}|HrvystPracticeApp\\HrvystPracticeApp.csproj|c:\\users\\tyler\\source\\repos\\hrvystpracticeapp\\interviewpracticeapp\\hrvystpracticeapp\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37258E4C-0151-4406-A184-FF1F6D3D6F9C}|HrvystPracticeApp\\HrvystPracticeApp.csproj|solutionrelative:hrvystpracticeapp\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37258E4C-0151-4406-A184-FF1F6D3D6F9C}|HrvystPracticeApp\\HrvystPracticeApp.csproj|c:\\users\\tyler\\source\\repos\\hrvystpracticeapp\\interviewpracticeapp\\hrvystpracticeapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37258E4C-0151-4406-A184-FF1F6D3D6F9C}|HrvystPracticeApp\\HrvystPracticeApp.csproj|solutionrelative:hrvystpracticeapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37258E4C-0151-4406-A184-FF1F6D3D6F9C}|HrvystPracticeApp\\HrvystPracticeApp.csproj|c:\\users\\tyler\\source\\repos\\hrvystpracticeapp\\interviewpracticeapp\\hrvystpracticeapp\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37258E4C-0151-4406-A184-FF1F6D3D6F9C}|HrvystPracticeApp\\HrvystPracticeApp.csproj|solutionrelative:hrvystpracticeapp\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\tyler\\source\\repos\\HrvystPracticeApp\\InterviewPracticeApp\\HrvystPracticeApp\\Services\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "HrvystPracticeApp\\Services\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\tyler\\source\\repos\\HrvystPracticeApp\\InterviewPracticeApp\\HrvystPracticeApp\\Services\\IEmployeeService.cs",
+              "RelativeToolTip": "HrvystPracticeApp\\Services\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T23:29:44.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\tyler\\source\\repos\\HrvystPracticeApp\\InterviewPracticeApp\\HrvystPracticeApp\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "HrvystPracticeApp\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\tyler\\source\\repos\\HrvystPracticeApp\\InterviewPracticeApp\\HrvystPracticeApp\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "HrvystPracticeApp\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T23:28:06.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\tyler\\source\\repos\\HrvystPracticeApp\\InterviewPracticeApp\\HrvystPracticeApp\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "HrvystPracticeApp\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\tyler\\source\\repos\\HrvystPracticeApp\\InterviewPracticeApp\\HrvystPracticeApp\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "HrvystPracticeApp\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T22:30:42.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
